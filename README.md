@@ -9,7 +9,7 @@ I'm always interested in expanding my knowledge and taking on new, exciting proj
 ## Get in touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/avneet-singh-b1b1171a8/)
-- Drop me an email at abs132@pitt.edu
-- Check out my writings on [Medium](https://medium.com/@avneet-singh)
+- Reach out to me at abs132@pitt.edu
+- Check out my write-ups on [Medium](https://medium.com/@avneet-singh)
 
 I'm looking forward to our potential interactions and collaborations!
