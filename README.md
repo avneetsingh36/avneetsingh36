@@ -1,4 +1,4 @@
-# Hello, I'm Avneet Singh 
+# Hello, I'm [Avneet Singh](https://avneets.me)
 
 I'm a Computer Science student currently in my senior year at the University of Pittsburgh. I'm passionate about delving into the intricacies of low-level programming and system security, continually aiming to understand how things work behind the scenes.
 
