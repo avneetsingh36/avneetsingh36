@@ -10,6 +10,6 @@ I'm always interested in expanding my knowledge and taking on new, exciting proj
 
 - Connect with me on [linkedIn](https://www.linkedin.com/in/avneet-singh-b1b1171a8/)
 - Reach out to me at avneetbsingh@gmail.com
-- Check out my website www.avneetsingh.dev
+- Check out my website at [avneetsingh.dev](https://www.avneetsingh.dev)
 
 I'm looking forward to our potential interactions and collaborations!
