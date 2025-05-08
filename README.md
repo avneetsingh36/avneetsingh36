@@ -8,8 +8,8 @@ I'm always interested in expanding my knowledge and taking on new, exciting proj
 
 ## Get in touch
 
-- Connect with me on [linkedIn](https://www.linkedin.com/in/avneet-singh-b1b1171a8/)
+- Connect with me on [linkedIn](https://www.linkedin.com/in/avneet-singh-b1b1171a8/){:target="_blank"} 
 - Reach out to me at avneetbsingh@gmail.com
-- Check out my website at [avneetsingh.dev](https://www.avneetsingh.dev)
+- Check out my website at [avneetsingh.dev](https://www.avneetsingh.dev){:target="_blank"} 
 
 I'm looking forward to our potential interactions and collaborations!
