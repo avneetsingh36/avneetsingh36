@@ -15,7 +15,7 @@ I'm always interested in expanding my knowledge and taking on new, exciting proj
 I'm looking forward to our potential interactions and collaborations!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneetsingh36&exclude_repo=.dotfiles&layout=compact&theme=material-palenight&hide=jupyter%20notebook"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneetsingh36&exclude_repo=.dotfiles&layout=compact&theme=material-palenight&hide=swift"/>
 </div>
 
 ___
