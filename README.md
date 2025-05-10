@@ -32,4 +32,3 @@ ___
 <img alt="Docker" src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=blue">  
 <img alt="Bash" src="https://img.shields.io/badge/Bash-323330?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </div>
----
