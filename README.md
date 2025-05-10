@@ -30,7 +30,6 @@ ___
 <img alt="Java" src="https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=openjdk&logoColor=red">
 <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img alt="C" src="https://img.shields.io/badge/C-100000?style=for-the-badge&logo=c&logoColor=white">
 <img alt="Rust" src="https://img.shields.io/badge/RUST-E44C30?style=for-the-badge&logo=rust&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=linux&logoColor=yellow">  
 <img alt="Docker" src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=blue">  
