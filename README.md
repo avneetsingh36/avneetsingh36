@@ -1,4 +1,4 @@
-# Hello, I'm [Avneet Singh](https://avneets.me)
+# Hello, I'm [Avneet Singh](https://www.avneetsingh.dev)
 
 I'm a Software Engineer working in industry. I'm passionate about delving into the intricacies of low-level programming and system security, continually aiming to understand how things work behind the scenes.
 
@@ -13,6 +13,8 @@ I'm always interested in expanding my knowledge and taking on new, exciting proj
 - Check out my website at [avneetsingh.dev](https://www.avneetsingh.dev) 
 
 I'm looking forward to our potential interactions and collaborations!
+
+___
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneetsingh36&exclude_repo=.dotfiles&layout=compact&theme=material-palenight&hide=swift"/>
