@@ -16,12 +16,6 @@ I'm looking forward to our potential interactions and collaborations!
 
 ___
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneetsingh36&exclude_repo=.dotfiles&layout=compact&theme=material-palenight&hide=swift"/>
-</div>
-
-___
-
 ### my skills :bulb: 
 
 <div style="display:flex">
